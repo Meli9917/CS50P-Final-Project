@@ -6,6 +6,7 @@ your city and country; Pampanga, Philippines
 Linkedin; https://www.linkedin.com/in/adrian-francis-navarro-bb3022348/
 """
 
+
 import csv
 import sys
 
